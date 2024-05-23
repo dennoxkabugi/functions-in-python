@@ -1,5 +1,4 @@
 # functions-in-python
-Functions in Python
 Learning Goals
 Understand the similarities between functions in JavaScript and Python.
 Identify key differences between functions in JavaScript and Python.
